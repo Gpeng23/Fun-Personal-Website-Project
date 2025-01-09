@@ -98,6 +98,9 @@ Host: www
 Value: username.github.io (replace with your GitHub username)
 TTL: Auto
 
+<img width="1100" alt="image" src="https://github.com/user-attachments/assets/ae668357-8da9-454a-9b72-c1f352dc4492" />
+
+
 Step 5: You're Done!
 
 Enjoy your new website! Make edits, personalize it, and don't forget to start blogging!
