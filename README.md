@@ -1,24 +1,26 @@
-Personal Website Creation Guide
+## Personal Website Creation Guide
 
 Created this project for fun over winter break of 2025. Please enjoy! The website is linked below:
 
-Website Link: https://gpeng23.github.io/Fun-Personal-Website-Project/
+Website Link(s): 
 
-Overview
+github pages: https://gpeng23.github.io/Fun-Personal-Website-Project/
 
-Below is the cheapest and most efficient way to create a personal website for under $12 for one year.
+Linked personal website: gregorypeng.net
 
-Time Commitment: 15 minutes (if experienced) - 2 hours (if doing it for the first time).
+## Overview
 
-Don’t worry—this process is not computationally expensive for your brain, and it's quite fun by the end of the day!
+* Below is the cheapest and most efficient way to create a personal website for under $12 for one year.
 
-Step 1: Watch the Tutorial Video
+*  Time Commitment: 15 minutes (if experienced) - 2 hours (if doing it for the first time).
 
-Video Link: How to Host a Personal Website Using GitHub Pages
+* Don’t worry—this process is not computationally expensive for your brain, and it's quite fun by the end of the day!
 
-Duration: 10 minutes
+### Step 1: Watch the Tutorial Video (10 min)
 
-Step 2: Create a GitHub Page and Format the HTML
+Video Link: www.youtube.com/watch?v=gwUz3E9AW0w
+
+### Step 2: Create a GitHub Page and Format the HTML (5-20 min)
 
 Get an AI Tool (such as ChatGPT or Gemini) to show you the basics of HTML formatting.
 
@@ -40,7 +42,7 @@ Click Save.
 
 After a few seconds, GitHub will provide a link to your live website (e.g., https://username.github.io/repository-name).
 
-Step 3: Rent a Domain on Namecheap
+### Step 3: Rent a Domain on Namecheap
 
 Create an account on Namecheap.
 
@@ -50,11 +52,11 @@ Tip: Try to catch a good deal during holidays, such as New Year's promotions.
 
 Time Estimate: 5-15 minutes.
 
-Step 4: Link Your GitHub Pages Site to Your Custom Domain
+### Step 4: Link Your GitHub Pages Site to Your Custom Domain
 
 After renting the domain, link your GitHub Pages site to your custom domain.
 
-Step 4a: Configure Your Custom Domain in GitHub
+#### Step 4a: Configure Your Custom Domain in GitHub (~10-30 min, 1 day of waiting if extremely unlucky)
 
 Go to your repository’s Settings > Pages section.
 
@@ -66,7 +68,7 @@ Click Save.
 
 Note: If you get an error saying your custom domain is "incompatible," that’s fine! Move on to step 4b.
 
-Step 4b: Configure DNS Settings in Namecheap
+#### Step 4b: Configure DNS Settings in Namecheap
 
 Log in to Namecheap and go to your Domain List.
 
@@ -101,13 +103,13 @@ TTL: Auto
 <img width="1100" alt="image" src="https://github.com/user-attachments/assets/ae668357-8da9-454a-9b72-c1f352dc4492" />
 
 
-Step 5: You're Done!
+### Step 5: You're Done!
 
 Enjoy your new website! Make edits, personalize it, and don't forget to start blogging!
 
 
 
-Final Tips:
+### Final Tips:
 
 If errors persist, use an AI tool for troubleshooting (this helped me when I got the "incompatible domain" error).
 
