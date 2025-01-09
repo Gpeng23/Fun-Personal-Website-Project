@@ -2,7 +2,9 @@ Created this project for fun over winter break of 2025. Please enjoy! The websit
 
 https://gpeng23.github.io/Fun-Personal-Website-Project/
 
-How to create the website:
+Below is the cheapest and most efficient way of how you can create a personal website for under $12 for one year. Time Committment: 15 min (if experienced) - 2 hours (if doing first time)
+
+Don't be worried though, this is not very computationally expensive for your brain and it is quite fun at the end of the day. 
 
 1) First watch this video: https://www.youtube.com/watch?v=EXfFBEuCAr0
 
